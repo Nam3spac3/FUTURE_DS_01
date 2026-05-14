@@ -1,5 +1,5 @@
 Task 1 completed!
-📊 Business Sales Dashboard from E-commerce Data – Future Interns (Track Code: DS)
+📊 Business Sales Dashboard from E-commerce Data 
 The goal was to help business owners and decision-makers understand:
 •	What are the best-selling products?
 •	When do sales peak during the year?
